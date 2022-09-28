@@ -5,7 +5,7 @@
   "description": "[![Actions Status](https://github.com/Vasily7277/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/Vasily7277/frontend-project-44/actions)",
   "bin": {
     "brain-games": "bin/brain-games.js"
-  },  
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,8 +15,12 @@
     "url": "git+https://github.com/Vasily7277/frontend-project-44.git"
   },
   "author": "Vasily7277",
-  "license": "ISC",  "bugs": {
+  "license": "ISC",
+  "bugs": {
     "url": "https://github.com/Vasily7277/frontend-project-44/issues"
   },
-  "homepage": "https://github.com/Vasily7277/frontend-project-44#readme"
+  "homepage": "https://github.com/Vasily7277/frontend-project-44#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
