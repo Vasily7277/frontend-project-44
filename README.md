@@ -18,4 +18,4 @@ Brain games is a set of five console games based on popular mobile brain trainin
 
 ### Definition of an even number.
 
-[![asciicast](https://asciinema.org/a/8a7XJmzohgOMnIodejiYIb34O)
+[![asciicast](https://asciinema.org/a/524546.svg)](https://asciinema.org/a/524546)
