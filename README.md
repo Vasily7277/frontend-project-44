@@ -23,3 +23,7 @@ Brain games is a set of five console games based on popular mobile brain trainin
 ### Calculator.
 
 [![asciicast](https://asciinema.org/a/524759.svg)](https://asciinema.org/a/524759)
+
+### Finding the Greatest Common Divisor
+
+[![asciicast](https://asciinema.org/a/525291.svg)](https://asciinema.org/a/525291)
