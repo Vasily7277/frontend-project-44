@@ -31,3 +31,7 @@ Brain games is a set of five console games based on popular mobile brain trainin
 ### Progression
 
 [![asciicast](https://asciinema.org/a/525315.svg)](https://asciinema.org/a/525315)
+
+5. Definition of a prime number
+
+[![asciicast](https://asciinema.org/a/525556.svg)](https://asciinema.org/a/525556)
