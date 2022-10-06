@@ -29,8 +29,8 @@ function getQuestionAndAnswer() {
   return [question, answer];
 }
 
-function brainPrime() {
+function runBrainPrime() {
   startGame(description, getQuestionAndAnswer);
 }
 
-export default brainPrime;
+export default runBrainPrime;

@@ -35,3 +35,41 @@ Brain games is a set of five console games based on popular mobile brain trainin
 5. Definition of a prime number
 
 [![asciicast](https://asciinema.org/a/525556.svg)](https://asciinema.org/a/525556)
+
+## Setup
+
+```bash
+make install
+```
+
+### Commands for launching
+
+1. Definition of an even number.
+
+```bash
+brain-even
+```
+
+2. Calculator. Arithmetic expressions to be evaluated.
+
+```bash
+brain-calc
+```
+
+3. Finding the Greatest Common Divisor.
+
+```bash
+brain-progression
+```
+
+4. Progression. Search for missing numbers in a sequence of numbers.
+
+```bash
+brain-progression
+```
+
+5. Definition of a prime number.
+
+```bash
+brain-prime
+```

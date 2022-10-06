@@ -28,8 +28,8 @@ const getQuestionAndAnswer = () => {
   return [question, answer];
 };
 
-const brainEven = () => {
+const runBrainCalc = () => {
   startGame(description, getQuestionAndAnswer);
 };
 
-export default brainEven;
+export default runBrainCalc;
